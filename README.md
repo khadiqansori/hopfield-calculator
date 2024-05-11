@@ -1,4 +1,5 @@
 # Tugas JST Hopfield Kel. 6
+## Universitas Indraprasta PGRI
 
 ### Anggota Kelompok
 #### - Khadiq Ansori - 202043500587
