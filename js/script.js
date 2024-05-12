@@ -38,10 +38,13 @@ $( "#form-pola" ).on( "submit", function( e ) {
         td += `<td><b>`+ no +`</b></td>`
     
         for (let b = 0; b < 4; b++) {
+            wa = a+1
+            wb = b+1
+
             if (a == b) {
                 td += `<td class='text-danger'>0</td>`
             } else {
-                td += `<td>W`+ a + b +`</td>`
+                td += `<td>W`+ wa + wb +`</td>`
             }
         }
     
