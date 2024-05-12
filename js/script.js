@@ -6,6 +6,13 @@ $( "#form-pola" ).on( "submit", function( e ) {
     $('#menentukan-bobot').removeClass('invisible');
     $('#pengujian').removeClass('invisible');
 
+    $('#aktivasi-node').addClass('invisible');
+    $('#aktivasi-node1').addClass('invisible');
+    $('#aktivasi-node2').addClass('invisible');
+    $('#aktivasi-node3').addClass('invisible');
+    $('#aktivasi-node4').addClass('invisible');
+    $('#hasil-aktivasi').addClass('invisible');
+
     const arrPola1 = []
     const arrPola2 = []
     
